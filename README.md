@@ -895,13 +895,13 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [x] [Implementation (C)](https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c)
     - [x] [Implementation (Python)](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
 
-- [ ] [[Review] Sorting (playlist) in 18 minutes](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
-    - [ ] [Quick sort in 4 minutes (video)](https://youtu.be/Hoixgm4-P4M)
-    - [ ] [Heap sort in 4 minutes (video)](https://youtu.be/2DmK_H7IdTo)
-    - [ ] [Merge sort in 3 minutes (video)](https://youtu.be/4VqmGXwpLqc)
-    - [ ] [Bubble sort in 2 minutes (video)](https://youtu.be/xli_FI7CuzA)
-    - [ ] [Selection sort in 3 minutes (video)](https://youtu.be/g-PGLbMth_g)
-    - [ ] [Insertion sort in 2 minutes (video)](https://youtu.be/JU767SDMDvA)
+- [x] [[Review] Sorting (playlist) in 18 minutes](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
+    - [x] [Quick sort in 4 minutes (video)](https://youtu.be/Hoixgm4-P4M)
+    - [x] [Heap sort in 4 minutes (video)](https://youtu.be/2DmK_H7IdTo)
+    - [x] [Merge sort in 3 minutes (video)](https://youtu.be/4VqmGXwpLqc)
+    - [x] [Bubble sort in 2 minutes (video)](https://youtu.be/xli_FI7CuzA)
+    - [x] [Selection sort in 3 minutes (video)](https://youtu.be/g-PGLbMth_g)
+    - [x] [Insertion sort in 2 minutes (video)](https://youtu.be/JU767SDMDvA)
 
 - [x] Implement:
     - [x] Mergesort: O(n log n) average and worst case
