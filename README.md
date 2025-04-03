@@ -1051,7 +1051,8 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [x] command
         - [ ] state
         - [ ] memento
-        - [ ] iterator
+	- [x] template
+        - [x] iterator
         - [ ] composite
         - [ ] flyweight
     - [ ] [Series of videos (27 videos)](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
