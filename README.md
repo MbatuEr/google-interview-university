@@ -1046,10 +1046,10 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [x] factory, abstract factory
         - [x] facade
         - [x] observer
-        - [ ] proxy
+        - [x] proxy
         - [ ] delegate
         - [x] command
-        - [ ] state
+        - [x] state
         - [ ] memento
         - [x] iterator
         - [x] composite
