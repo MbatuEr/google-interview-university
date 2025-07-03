@@ -798,7 +798,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [x] [Check if a binary tree is a binary search tree or not (video)](https://www.youtube.com/watch?v=yEwSGhSsT0U&index=35&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
         - [x] [Delete a node from Binary Search Tree (video)](https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36)
         - [x] [Inorder Successor in a binary search tree (video)](https://www.youtube.com/watch?v=5cPbNCrdotA&index=37&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-    - [ ] Implement:
+    - [x] Implement:
         - [x] [insert    // insert value into tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/987660183/)
         - [x] get_node_count // get count of values stored
         - [x] print_values // prints the values in the tree, from min to max
@@ -903,8 +903,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [x] [Insertion sort in 2 minutes (video)](https://youtu.be/JU767SDMDvA)
 
 - [x] Implement:
-    - [x] Mergesort: O(n log n) average and worst case
-    - [x] Quicksort O(n log n) average case
+    - Mergesort: O(n log n) average and worst case
+    - Quicksort O(n log n) average case
     - Selection sort and insertion sort are both O(n^2) average and worst-case
     - For heapsort, see Heap data structure above
 
@@ -978,12 +978,12 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [x] BFS with adjacency matrix
     - [x] single-source shortest path (Dijkstra)
     - [x] minimum spanning tree
-    - DFS-based algorithms (see Aduni videos above):
-        - [x] check for a cycle (needed for topological sort, since we'll check for the cycle before starting)
-        - [x] topological sort
-        - [x] count connected components in a graph
-        - [x] list strongly connected components
-        - [x] check for bipartite graph
+    - [x] DFS-based algorithms (see Aduni videos above):
+        - check for a cycle (needed for topological sort, since we'll check for the cycle before starting)
+        - topological sort
+        - count connected components in a graph
+        - list strongly connected components
+        - check for bipartite graph
 
 **[⬆ back to top](#table-of-contents)**
 
