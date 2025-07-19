@@ -1146,9 +1146,8 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [x] [1. Introduction to Substring Search](https://www.coursera.org/lecture/algorithms-part2/introduction-to-substring-search-n3ZpG)
     - [x] [2. Brute-Force Substring Search](https://www.youtube.com/watch?v=vtnpzDPgaU0)
     - [x] [3. Knuth-Morris Pratt](https://www.youtube.com/watch?v=q4_90fOoS-s)
-    - [ ] [4. Boyer-Moore](https://www.youtube.com/watch?v=PHXAOKQk2dw)
-    - [ ] [5. Rabin-Karp](https://www.coursera.org/lecture/algorithms-part2/rabin-karp-3KiqT)
-    - [ ] [Search pattern in a text (video)](https://www.coursera.org/learn/data-structures/lecture/tAfHI/search-pattern-in-text)
+    - [x] [4. Boyer-Moore](https://www.youtube.com/watch?v=PHXAOKQk2dw)
+    - [x] [5. Rabin-Karp](https://www.youtube.com/watch?v=yFHV7weZ_as)
 
     If you need more detail on this subject, see the "String Matching" section in [Additional Detail on Some Subjects](#additional-detail-on-some-subjects).
 
